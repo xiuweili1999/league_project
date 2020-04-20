@@ -1,4 +1,4 @@
-gameId,gameDuration(seconds),gameVersion,teamId,team,win,firstBlood,firstTower,firstInhibitor,firstBaron,firstDragon,firstRiftHerald,towerKills,inhibitorKills,baronKills,dragonKills,riftHeraldKills,kills,deaths,assists,totalDamageDealtToChampions,visionScore,goldEarned,averageChampLevel,totalMinionsKilled
+gameId,gameDuration(seconds),gameVersion,teamId,team,win,firstBlood,firstTower,firstInhibitor,firstBaron,firstDragon,firstRiftHerald,towerKills,inhibitorKills,baronKills,dragonKills,riftHeraldKills,teamKills,teamDeaths,teamAssists,teamTotalDamageDealtToChampions,teamVisionScore,teamGoldEarned,teamAverageChampLevel,teamMinionsKilled
 3380752332,1425,10.8.317.3760,100,Blue,Win,True,True,True,True,True,True,9,2,1,4,2,26,7,49,60502,97,51396,13.4,586
 3380752332,1425,10.8.317.3760,200,Red,Fail,False,False,False,False,False,False,0,0,0,0,0,7,26,15,33115,106,34647,11.2,474
 3380718178,915,10.8.317.3760,100,Blue,Fail,False,False,False,False,False,True,0,0,0,0,1,6,17,14,25786,64,25552,9.0,361
